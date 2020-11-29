@@ -1,1 +1,1 @@
-# Pacific - A Microservice Based & Even Based Application
+# Pacific - A Microservice & Event Driven Application
