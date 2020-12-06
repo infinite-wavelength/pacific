@@ -1,1 +1,1 @@
-# Pacific - A Microservice & Event Driven Application
+# Pacific - An Event Driven Microservice Application
