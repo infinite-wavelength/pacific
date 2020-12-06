@@ -1,0 +1,17 @@
+{
+    "name": "data",
+    "version": "1.0.0",
+    "description": "this is microservice for adhoc data fetching, schedulers based jobs, etc ",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "adhoc",
+        "jobs",
+        "crons",
+        "scheduler"
+    ],
+    "author": "",
+    "license": "ISC"
+}
