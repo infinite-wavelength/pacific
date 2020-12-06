@@ -1,0 +1,11 @@
+{
+    "protocol": "http",
+    "host": "localhost",
+    "port": "4000",
+    "databaseHost": "localhost",
+    "databaseInstanceName": "SQLEXPRESS",
+    "databaseName": "user",
+    "databaseUsername": "root",
+    "databasePassword": "zaq1@WSX",
+    "jwtSecretKey": "1234.qwer"
+}
