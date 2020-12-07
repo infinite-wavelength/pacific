@@ -2,6 +2,7 @@
     "protocol": "http",
     "host": "localhost",
     "port": "4000",
+    "amqp": "amqp://localhost",
     "databaseHost": "localhost",
     "databaseInstanceName": "SQLEXPRESS",
     "databaseName": "user",
