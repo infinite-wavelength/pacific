@@ -12,3 +12,7 @@ You can query data sources live or you can run/schedule jobs to fetch the data f
 -   JWT & Bcryptjs - Authentication & Authorization strategy
 -   GIT - Version control
 -   Tools - ESLint, Prettier, NPM, VSCode, etc
+
+## Architecture
+
+![Architecture Diagram](https://github.com/infinite-wavelength/pacific/blob/main/docs/architecture.png)
