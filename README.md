@@ -1,6 +1,7 @@
 # Pacific - An Event Driven Microservice Application
 
-### This application will fetch data from sources like MySQL, SQL Server, MongoDB, PostgresSQL, etc and will save into desired format by importing it. You can query data sources live or you can run jobs or schedule jobs to fetch the data for you in future.
+This application will fetch data from sources like MySQL, SQL Server, MongoDB, PostgresSQL, etc and will save into desired format.
+You can query data sources live or you can run/schedule jobs to fetch the data for you in future.
 
 ## Technology stack
 
