@@ -11,6 +11,10 @@ const errors: any = {
         reason: 'DatabaseError',
         description: 'Cannot connect to database'
     },
+    RABBITMQ_CONNECTION: {
+        reason: 'RabbitMQError',
+        description: 'Cannot connect to RabbitMQ'
+    },
     NOT_FOUND: {
         reason: 'NotFoundError',
         description: 'Cannot find the requested resource'

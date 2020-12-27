@@ -15,6 +15,7 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
+        "@pacific.io/common": "^1.0.12",
         "@types/amqplib": "^0.5.16",
         "@types/bcryptjs": "^2.4.2",
         "@types/config": "0.0.37",
