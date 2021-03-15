@@ -1,0 +1,23 @@
+.btn-prim {
+  background-color: $primary-red !important;
+  color: $white !important;
+  border: solid 0.5px $primary-red !important;
+  &:hover {
+    background-color: $white !important;
+    color: $primary-red !important;
+  }
+}
+
+.btn-prim-outline {
+  background-color: $white !important;
+  color: $primary-red !important;
+  border: solid 0.5px $primary-red !important;
+  &:hover {
+    background-color: $primary-red !important;
+    color: $white !important;
+  }
+}
+
+.btn-full {
+  width: 100%;
+}
